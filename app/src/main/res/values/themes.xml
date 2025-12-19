@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SmartCart" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- Primary -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <!-- Secondary -->
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+
+        <!-- Background -->
+        <item name="android:windowBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+
+        <!-- Text -->
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+
+    </style>
+
+</resources>
